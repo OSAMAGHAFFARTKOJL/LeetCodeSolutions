@@ -29,7 +29,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="YOUR_CODING_GIF_LINK_HERE" alt="Coding gif" />
+
   
  ✌️ &emsp; Moderator at iCodeGuru and passionate about coding and learning<br/><br/>
  🏆 &emsp; Winner of CS50x Puzzle Day'24 and session leader at CodeInPlace'24<br/><br/>
