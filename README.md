@@ -62,16 +62,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&layout=compact&theme=dark)](https://github.com/OSAMAGHAFFARTKOJL)
 
-<br/>
 
-## Contribution Graph
-
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OSAMAGHAFFARTKOJL&theme=dark&hide_border=true)
-
-<br/>
 
 ## GitHub Stats
 
 <a href="https://github.com/OSAMAGHAFFARTKOJL"><img alt="Your Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=OSAMAGHAFFARTKOJL&show_icons=true&count_private=true&theme=dark&border_color=5BCDEC&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="192px" width="49.5%"/></a>
 <a href="https://github.com/OSAMAGHAFFARTKOJL"><img alt="Your Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&langs_count=8&layout=compact&theme=dark&border_color=5BCDEC&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="192px" width="49.5%"/></a>
 </p>
+
