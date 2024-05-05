@@ -66,7 +66,7 @@
 
 ## Contribution Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OSAMAGHAFFARTKOJL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OSAMAGHAFFARTKOJL&theme=dark&hide_border=true)
 
 <br/>
 
