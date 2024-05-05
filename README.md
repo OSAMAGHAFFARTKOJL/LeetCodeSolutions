@@ -5,7 +5,7 @@
 <!-- Introduction -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a>Abdul Ghaffar</a></b>
+    <b><a>Osama Ghaffar</a></b>
   </samp>
 </h3>
 
@@ -37,7 +37,7 @@
  🤖 &emsp; AI & Data Science enthusiast, actively involved in AI Lab projects<br/><br/>
  🚀 &emsp; Participate in various international events and hackathons<br/><br/>
  📧 &emsp; Reach me anytime: abdulghaffar987123@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/OSAMAGHAFFARTKOJL/YOUR_REPOSITORY_NAME_HERE/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/issues)
 </p>
 
 <br/>
@@ -66,7 +66,7 @@
 
 ## Contribution Graph
 
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OSAMAGHAFFARTKOJL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OSAMAGHAFFARTKOJL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
 
 <br/>
 
