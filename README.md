@@ -17,7 +17,7 @@
     <br>
     <a href="https://leetcode.com/u/Osama_Ghaffar/">「 Check out my LeetCode Profile 」</a>
     <br>
-    <a href="https://lablab.ai/u/@Inferno_Flarefgs0">「 Explore my AI Lab Projects 」</a>
+    <a href="https://lablab.ai/u/@Inferno_Flarefgs0">「 Explore my Lab Lab HAckathons 」</a>
     <br>
     「 Moderator @iCodeGuru | CS50x Puzzle Day'24 Winner | CodeInPlace'24 Session Leader | LeetCode Challenger | AI & Data Science Enthusiast 」
     <br>
@@ -34,7 +34,7 @@
  ✌️ &emsp; Moderator at iCodeGuru and passionate about coding and learning<br/><br/>
  🏆 &emsp; Winner of CS50x Puzzle Day'24 and session leader at CodeInPlace'24<br/><br/>
  🧩 &emsp; Enthusiastic LeetCode challenger, always ready for new coding challenges<br/><br/>
- 🤖 &emsp; AI & Data Science enthusiast, actively involved in AI Lab projects<br/><br/>
+ 🤖 &emsp; AI & Data Science enthusiast<br/><br/>
  🚀 &emsp; Participate in various international events and hackathons<br/><br/>
  📧 &emsp; Reach me anytime: abdulghaffar987123@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/issues)
