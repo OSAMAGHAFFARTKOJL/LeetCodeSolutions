@@ -30,6 +30,22 @@
   </samp>
 </p>
 
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/osama-ghaffar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/osamaghaffar3136" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://leetcode.com/u/Osama_Ghaffar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://lablab.ai/u/@Inferno_Flarefgs0" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%20Lab%20AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Lab Lab AI">
+  </a>
+</p>
+
 <!-- Languages and Tools Used -->
 ## Languages and Tools
 
