@@ -4,11 +4,11 @@ class Solution:
         self.memo = {1: 1, 2: 2}
 
     def climbStairs(self, n: int) -> int:
-        # Check if the result is already in the memoization dictionary
-        if n in self.memo:
-            return self.memo[n]
+        for i in range(3,n+1):
+            if i in self.memo:
+                return self.memo[i]
 
-        # Recursive call with memoization
-        result = self.climbStairs(n - 1) + self.climbStairs(n - 2)
-        self.memo[n] = result  # Store the result for future reference
-        return result
+            # Recursive call with memoization
+            result = self.memo[i - 1] + self.memo[i - 2]
+            self.memo[i] = result  # Store the result for future reference
+        return self.memo[n]
