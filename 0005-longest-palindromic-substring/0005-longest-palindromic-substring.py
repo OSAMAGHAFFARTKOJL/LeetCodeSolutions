@@ -3,8 +3,8 @@ class Solution:
         res = ""
         
         for i in range(len(s)):
-            l = i - 1
-            r = i + 1
+            l = i
+            r = i 
             
             while l >= 0 and r < len(s) and s[l:r+1] == s[l:r+1][::-1]:
                 if len(res) < len(s[l:r+1]):
