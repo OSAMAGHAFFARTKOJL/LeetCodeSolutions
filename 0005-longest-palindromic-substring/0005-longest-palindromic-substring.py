@@ -3,7 +3,7 @@ class Solution:
         res = ""
         
         for i in range(len(s)):
-            l = i
+            l = i 
             r = i 
             
             while l >= 0 and r < len(s) and s[l:r+1] == s[l:r+1][::-1]:
