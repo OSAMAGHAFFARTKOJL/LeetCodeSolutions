@@ -18,10 +18,10 @@ class Solution:
                 elif board[j][i] in x:
                     return False
         count = 0
+        box1 = set()
+        box2 = set()
+        box3 = set()
         for i in range(row):
-            box1 = set()
-            box2 = set()
-            box3 = set()
             for j in range(col):
                 if j>=0 and j<=2:
                     if board[i][j].isdigit() and board[i][j] not in box1:  
