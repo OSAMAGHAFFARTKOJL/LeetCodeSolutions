@@ -4,7 +4,7 @@ class Solution:
             k = k %len(nums)
         if k>0:
             nums[:k],nums[k:] = nums[-k:],nums[:-k]
-            print(nums)
+
 
 
         
