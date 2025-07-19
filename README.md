@@ -82,3 +82,23 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&langs_count=8&layout=compact&theme=dark&border_color=5BCDEC&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" alt="Top Languages" height="192px">
   </a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+<!---LeetCode Topics End-->
