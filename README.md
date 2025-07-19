@@ -94,6 +94,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
