@@ -92,6 +92,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
