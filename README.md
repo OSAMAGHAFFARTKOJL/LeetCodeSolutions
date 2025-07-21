@@ -113,4 +113,16 @@
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
