@@ -139,4 +139,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [3636-check-balanced-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/3636-check-balanced-string) |
 <!---LeetCode Topics End-->
