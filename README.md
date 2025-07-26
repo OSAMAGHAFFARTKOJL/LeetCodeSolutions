@@ -116,6 +116,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -126,6 +127,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -136,6 +138,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -159,4 +162,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
