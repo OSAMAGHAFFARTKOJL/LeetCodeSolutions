@@ -132,6 +132,7 @@
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String
 |  |
 | ------- |
