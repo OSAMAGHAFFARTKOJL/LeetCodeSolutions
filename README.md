@@ -187,6 +187,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1205-defanging-an-ip-address](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [3636-check-balanced-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/3636-check-balanced-string) |
 ## Backtracking
 |  |
