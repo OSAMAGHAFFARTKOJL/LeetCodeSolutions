@@ -90,6 +90,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
+| [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3636-check-balanced-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/3636-check-balanced-string) |
 ## Backtracking
 |  |
@@ -209,4 +211,9 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
