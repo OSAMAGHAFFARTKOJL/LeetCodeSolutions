@@ -1,6 +1,6 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        freq = {}
+        freq = {} # we initialize a dict to store the frequency of the each character
         for i in range(len(s)):
             if s[i] in freq:
                 freq[s[i]] = -1
