@@ -90,6 +90,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
@@ -191,6 +192,7 @@
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -212,6 +214,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
