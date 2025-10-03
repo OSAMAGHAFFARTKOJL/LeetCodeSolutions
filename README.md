@@ -117,6 +117,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Tree
 |  |
@@ -224,5 +225,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
