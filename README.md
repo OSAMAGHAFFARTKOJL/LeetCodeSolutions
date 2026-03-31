@@ -92,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
@@ -222,16 +223,19 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
