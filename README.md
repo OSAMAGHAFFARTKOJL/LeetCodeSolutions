@@ -93,6 +93,7 @@
 | [0383-ransom-note](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
@@ -231,12 +232,14 @@
 | [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
