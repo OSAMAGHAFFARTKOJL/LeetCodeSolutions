@@ -251,6 +251,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/0050-powx-n) |
+| [3783-mirror-distance-of-an-integer](https://github.com/OSAMAGHAFFARTKOJL/LeetCodeSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting Sort
 |  |
 | ------- |
